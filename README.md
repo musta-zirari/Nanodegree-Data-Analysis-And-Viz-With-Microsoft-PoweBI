@@ -25,3 +25,4 @@ Covers: an introduction to data analysis looking at different terms and techniqu
 | 03  | [Market Analysis Report for National Clothing Chai](https://github.com/musta-zirari/Nanodegree-Data-Analysis-And-Viz-With-Microsoft-PoweBI/tree/main/Market%20Analysis%20Report%20for%20National%20Clothing%20Chain)  |
 
 ## Nanodegree Certificate
+![Nanodegree: Data Analysis and Visualization - Power BI](https://github.com/musta-zirari/Nanodegree-Data-Analysis-And-Viz-With-Microsoft-PoweBI/assets/28354876/036d64cc-57fa-4d2a-b902-104f3fa888d5)
