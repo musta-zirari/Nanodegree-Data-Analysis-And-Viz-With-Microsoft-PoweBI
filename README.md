@@ -20,8 +20,8 @@ Covers: an introduction to data analysis looking at different terms and techniqu
 
 | Project No.  | Project |
 | ------------- | ------------- |
-| 01  | Build a Data Model for Seven Sages Brewing Company  |
-| 02  | Building a Power BI Report for Waggle  |
-| 03  | Market Analysis Report for National Clothing Chai  |
+| 01  | [Build a Data Model for Seven Sages Brewing Company](https://github.com/musta-zirari/Nanodegree-Data-Analysis-And-Viz-With-Microsoft-PoweBI/tree/main/Power%20BI%20Dashboard%20for%20SSTC)  |
+| 02  | [Building a Power BI Report for Waggle](https://github.com/musta-zirari/Nanodegree-Data-Analysis-And-Viz-With-Microsoft-PoweBI/tree/main/PowerBI%20Report%20for%20Waggle)  |
+| 03  | [Market Analysis Report for National Clothing Chai](https://github.com/musta-zirari/Nanodegree-Data-Analysis-And-Viz-With-Microsoft-PoweBI/tree/main/Market%20Analysis%20Report%20for%20National%20Clothing%20Chain)  |
 
 ## Nanodegree Certificate
